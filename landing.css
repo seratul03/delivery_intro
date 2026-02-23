@@ -445,7 +445,7 @@
 
     /* ─── SECTION 2: THE CRAVING ──────────────────────────────── */
     #craving {
-      height: 200vh;
+      height: 150vh;
       position: relative;
     }
 
@@ -537,7 +537,7 @@
 
     /* ─── SECTION 3: THE SPEED ────────────────────────────────── */
     #speed {
-      height: 200vh;
+      height: 150vh;
       position: relative;
     }
 
@@ -615,7 +615,7 @@
 
     /* ─── SECTION 4: THE CONTROL ──────────────────────────────── */
     #control {
-      height: 300vh;
+      height: 200vh;
       position: relative;
     }
 
@@ -1845,7 +1845,7 @@
 
     /* ─── GAP BRIDGE (fills gap between craving & speed) ──── */
     #gap-bridge {
-      height: 200vh;
+      height: 130vh;
       position: relative;
     }
 
@@ -1894,7 +1894,7 @@
 
     /* ─── FEAST REVEAL (food fan-out) ──────────────────────── */
     #feast-reveal {
-      height: 400vh;
+      height: 250vh;
       position: relative;
     }
 
